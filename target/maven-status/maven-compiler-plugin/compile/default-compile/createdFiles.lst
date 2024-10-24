@@ -1,0 +1,7 @@
+utils\ExcelUtils.class
+pageObjects_Android\ProductCatelogue.class
+utils\AppiumUtils.class
+utils\IOSActions.class
+pageObjects_Android\FormPage.class
+utils\AndroidActions.class
+pageObjects_Android\CartPage.class
